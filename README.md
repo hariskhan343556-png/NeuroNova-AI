@@ -1,8 +1,7 @@
 
 # NeuroNova AI: Advanced Brain Tumor Detection System
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&fit=crop&q=80&w=1000" alt="Brain MRI Scan" width="1000"/>
-</div>
+  <
 
 
 ## Revolutionizing Brain Tumor Detection Through AI
