@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        background-color: #e5eae7;
+        color: #14532D;
+        font-family: 'Outfit', sans-serif;
+        @apply antialiased;
+    }
+
+    html {
+        scroll-behavior: smooth;
+    }
+}
+
+@layer utilities {
+    .text-gradient {
+        @apply bg-gradient-to-r from-green-600 to-lime-500 bg-clip-text text-transparent;
+    }
+
+    .shadow-professional {
+        box-shadow: 0 4px 12px rgba(22, 163, 74, 0.08);
+    }
+
+    .shadow-professional-lg {
+        box-shadow: 0 10px 25px rgba(22, 163, 74, 0.12);
+    }
+}
