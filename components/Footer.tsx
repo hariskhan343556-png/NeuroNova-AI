@@ -63,7 +63,7 @@ export default function Footer() {
             <span className="text-xs font-bold uppercase tracking-[0.2em] text-gray-600 mb-2">Connect</span>
             <div className="flex items-center space-x-3">
               <a
-                href="https://www.linkedin.com/in/neuronova-ai-4332b0448/"
+                href="https://www.linkedin.com/in/muhammad-haris-khan-08ba8b27a/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-11 h-11 flex items-center justify-center rounded-xl bg-gray-800/50 border border-gray-800 hover:bg-blue-600 hover:border-blue-500 text-gray-500 hover:text-white transition-all duration-300 hover:-translate-y-1"
@@ -81,7 +81,7 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                href="https://github.com/"
+                href="https://github.com/hariskhan343556-png"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-11 h-11 flex items-center justify-center rounded-xl bg-gray-800/50 border border-gray-800 hover:bg-gray-700 hover:border-gray-600 text-gray-500 hover:text-white transition-all duration-300 hover:-translate-y-1"
@@ -98,7 +98,7 @@ export default function Footer() {
           <p>© 2025 NeuroNova AI</p>
           <p>
             Developed with ❤️ by{' '}
-            <span className="text-gray-400 font-semibold">NeuroNova Group</span>
+            <span className="text-gray-400 font-semibold">Muhammad Haris Khan</span>
           </p>
         </div>
       </div>
